@@ -1,5 +1,5 @@
 
-🎓 Dashboard de Gestão Acadêmica: Frequência Automatizada
+##🎓 Dashboard de Gestão Acadêmica: Frequência Automatizada
 
 ## 📌 Introdução
 
